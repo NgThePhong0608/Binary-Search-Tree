@@ -1,4 +1,4 @@
-# DSA_Final_Term
+# Cấu trúc dữ liệu và giải thuật
 Bài tập lớn cuối kì môn học CTDL&amp;GT
 - Cài đặt môi trường:
     + Cài đặt JDK để chạy được Java
